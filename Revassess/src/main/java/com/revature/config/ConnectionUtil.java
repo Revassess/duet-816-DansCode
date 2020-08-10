@@ -16,7 +16,7 @@ public class ConnectionUtil {
 	private static ConnectionUtil cu;
 	
 	// add your jdbc url
-	public static final String URL = "database-1.c3f2ribjt3t3.us-east-1.rds.amazonaws.com";
+	public static final String URL = "database-1.c3f2ribjt3t3.us-east-1.rds.amazonaws.com:5432";
 	// add your jdbc username
 	public static final String USERNAME = "postgres";
 	// add your jdbc password

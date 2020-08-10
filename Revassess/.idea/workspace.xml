@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74565081-e85f-43e7-b7ce-a692e7c7b4fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
       <updated>1597083119442</updated>
       <workItem from="1597083120560" duration="2311000" />
       <workItem from="1597085637945" duration="1514000" />
-      <workItem from="1597089791967" duration="710000" />
+      <workItem from="1597089791967" duration="1062000" />
     </task>
     <servers />
   </component>
